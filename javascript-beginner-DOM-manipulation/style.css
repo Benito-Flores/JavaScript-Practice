@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  color: white;
+  padding-inline: 2rem;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  padding-block: 1em;
+  text-align: center;
+}
+
+label {
+  margin-right: 1rem;
+}
+
+div {
+  margin-bottom: 2rem;
+}
+
+select {
+  margin-bottom: .25rem;
+}
